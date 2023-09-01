@@ -3,7 +3,6 @@ main{
     margin-top: 100px;
     width: 600px;
     height: 400px;
-    background-color:#c7d0c3;
     display: flex;
     border-radius: 12px;
    
@@ -26,6 +25,8 @@ height: 400px;
     width: 300px;
     height: 350px;
     padding: 25px;
+    background: #b4c6bc;
+    border-radius: 0px 12px 12px 0px;
     
 }
 .title{
@@ -38,6 +39,7 @@ height: 400px;
 .text-1{
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    color: #303130;
+
 
    
 }
