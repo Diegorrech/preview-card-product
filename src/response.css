@@ -20,10 +20,14 @@ main{
     margin-top: 10px;
 }
 .botao-enviar button{
-    width:230px ;
-    height: 40px;
-    font-size:15px ;
+    width:120px ;
+    height: 30px;
+    font-size:10px ;
 }
+.price{
+    font-size: 15px;
+}
+
 
 }
 
